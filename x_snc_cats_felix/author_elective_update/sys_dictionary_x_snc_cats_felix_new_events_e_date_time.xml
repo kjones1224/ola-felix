@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="e_date_time" table="x_snc_cats_felix_new_events">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>1</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>End Time</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>e_date_time</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_snc_cats_felix_new_events</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-05-20 00:35:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7768a0c3dbf01c50a7e4db184b96197c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>End Time</sys_name>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_update_name>sys_dictionary_x_snc_cats_felix_new_events_e_date_time</sys_update_name>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-05-20 00:44:41</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</application>
+        <file_path/>
+        <instance_id>d395fc9ddb8762401ddcf22ebf961933</instance_id>
+        <instance_name>aashwsc7</instance_name>
+        <name>sys_dictionary_x_snc_cats_felix_new_events_e_date_time</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="e_date_time" table="x_snc_cats_felix_new_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label>End Time</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>e_date_time</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_snc_cats_felix_new_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>kjones</sys_created_by><sys_created_on>2020-05-20 00:35:07</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>7768a0c3dbf01c50a7e4db184b96197c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>End Time</sys_name><sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope><sys_update_name>sys_dictionary_x_snc_cats_felix_new_events_e_date_time</sys_update_name><sys_updated_by>kjones</sys_updated_by><sys_updated_on>2020-05-20 00:44:41</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1013830811</payload_hash>
+        <record_name>New Events.End Time</record_name>
+        <reverted_from/>
+        <source>b774648fdbb01c50a7e4db184b9619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-05-20 00:44:43</sys_created_on>
+        <sys_id>5caae087dbf01c50a7e4db184b9619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722f8a2bf90000001</sys_recorded_at>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-05-20 00:44:43</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>d0aae0879df01c50466f96c4eca73ce1</update_guid>
+        <update_guid_history>d0aae0879df01c50466f96c4eca73ce1:-1013830811,4df9e047a8f01c50fd99d2ba82d7fa90:-1972757361,7368a0c30af01c502de9d0af50fe759c:1916212660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-05-20 00:45:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>1a48e55e9305442bb4475786f31fc1e1</sys_id>
+        <sys_metadata>7768a0c3dbf01c50a7e4db184b96197c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>End Time</sys_name>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_parent display_value="New Events">2d90a88bdbb01c50a7e4db184b9619c4</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_scope_delete display_value="">4d189b4dc76048f4b496445db7ac5841</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_snc_cats_felix_new_events_e_date_time</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_snc_cats_felix_new_events_e_date_time">5caae087dbf01c50a7e4db184b9619e1</sys_update_version>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-05-20 00:45:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="add_value" label="Add Value" language="en" table="x_snc_cats_felix_parties_involved">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>add_value</element>
+            <help/>
+            <hint/>
+            <label>Add Value</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <plural>Add Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:06:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7e9f2ccbdbf01c50a7e4db184b961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Add Value</sys_name>
+            <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cats_felix_parties_involved_add_value_en</sys_update_name>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:06:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

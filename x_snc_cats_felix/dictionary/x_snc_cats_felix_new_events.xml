@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="New Events" max_length="40" name="x_snc_cats_felix_new_events" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Brief Description" max_length="200" name="u_brief_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Building" max_length="40" name="u_building" type="string">
+            <choice>
+                <element inactive_on_update="false" label="ADAMS" sequence="0" value="adams"/>
+                <element inactive_on_update="false" label="CANNON" sequence="1" value="cannon"/>
+                <element inactive_on_update="false" label="CAPITOL - House" sequence="2" value="capitol - house"/>
+                <element inactive_on_update="false" label="CAPITOL - Senate" sequence="3" value="capitol - senate"/>
+                <element inactive_on_update="false" label="CIA" sequence="4" value="cia"/>
+                <element inactive_on_update="false" label="DIAC" sequence="5" value="diac"/>
+                <element inactive_on_update="false" label="DIRKSEN" sequence="6" value="dirksen"/>
+                <element inactive_on_update="false" label="DOJ" sequence="7" value="doj"/>
+                <element inactive_on_update="false" label="EOB" sequence="8" value="eob"/>
+                <element inactive_on_update="false" label="FBI" sequence="9" value="fbi"/>
+                <element inactive_on_update="false" label="FORD" sequence="10" value="ford"/>
+                <element inactive_on_update="false" label="HART" sequence="11" value="hart"/>
+                <element inactive_on_update="false" label="Help" sequence="12" value="help"/>
+                <element inactive_on_update="false" label="ICC-Bethesda" sequence="13" value="icc-bethesda"/>
+                <element inactive_on_update="false" label="LONGWORTH" sequence="14" value="longworth"/>
+                <element inactive_on_update="false" label="LX1" sequence="15" value="lx1"/>
+                <element inactive_on_update="false" label="LX2" sequence="16" value="lx2"/>
+                <element inactive_on_update="false" label="MS2-IARPA" sequence="17" value="ms2-iarpa"/>
+                <element inactive_on_update="false" label="MS2-NCSC" sequence="18" value="ms2-ncsc"/>
+                <element inactive_on_update="false" label="NCSC-Bethesda" sequence="19" value="ncsc-bethesda"/>
+                <element inactive_on_update="false" label="NRO" sequence="20" value="nro"/>
+                <element inactive_on_update="false" label="NSA" sequence="21" value="nsa"/>
+                <element inactive_on_update="false" label="OHB" sequence="22" value="ohb"/>
+                <element inactive_on_update="false" label="OTHER-SEE NOTES" sequence="23" value="other-see notes"/>
+                <element inactive_on_update="false" label="PENTAGON" sequence="24" value="pentagon"/>
+                <element inactive_on_update="false" label="RAYBURN" sequence="25" value="rayburn"/>
+                <element inactive_on_update="false" label="RUSSELL" sequence="26" value="russell"/>
+                <element inactive_on_update="false" label="WHITE HOUSE" sequence="27" value="white house"/>
+                <element inactive_on_update="false" label="TBD" sequence="28" value="tbd"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Closed" max_length="40" name="u_closed" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="End Time" max_length="40" name="u_end_time" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:00" sequence="0" value="07:00"/>
+                <element inactive_on_update="false" label="07:30" sequence="1" value="07:30"/>
+                <element inactive_on_update="false" label="08:00" sequence="2" value="08:00"/>
+                <element inactive_on_update="false" label="08:30" sequence="3" value="08:30"/>
+                <element inactive_on_update="false" label="09:00" sequence="4" value="09:00"/>
+                <element inactive_on_update="false" label="09:30" sequence="5" value="09:30"/>
+                <element inactive_on_update="false" label="10:00" sequence="6" value="10:00"/>
+                <element inactive_on_update="false" label="10:30" sequence="7" value="10:30"/>
+                <element inactive_on_update="false" label="11:00" sequence="8" value="11:00"/>
+                <element inactive_on_update="false" label="11:30" sequence="9" value="11:30"/>
+                <element inactive_on_update="false" label="12:00" sequence="10" value="12:00"/>
+                <element inactive_on_update="false" label="12:30" sequence="11" value="12:30"/>
+                <element inactive_on_update="false" label="1:00" sequence="12" value="1:00"/>
+                <element inactive_on_update="false" label="1:30" sequence="13" value="1:30"/>
+                <element inactive_on_update="false" label="2:00" sequence="14" value="2:00"/>
+                <element inactive_on_update="false" label="2:30" sequence="15" value="2:30"/>
+                <element inactive_on_update="false" label="3:00" sequence="16" value="3:00"/>
+                <element inactive_on_update="false" label="3:30" sequence="17" value="3:30"/>
+                <element inactive_on_update="false" label="4:00" sequence="18" value="4:00"/>
+                <element inactive_on_update="false" label="4:30" sequence="19" value="4:30"/>
+                <element inactive_on_update="false" label="5:00" sequence="20" value="5:00"/>
+                <element inactive_on_update="false" label="5:30" sequence="21" value="5:30"/>
+                <element inactive_on_update="false" label="6:00" sequence="22" value="6:00"/>
+                <element inactive_on_update="false" label="6:30" sequence="23" value="6:30"/>
+                <element inactive_on_update="false" label="7:00" sequence="24" value="7:00"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Event Name" max_length="40" name="u_event_name" type="string">
             <choice>
                 <element inactive_on_update="false" label="CapNet" sequence="0" value="capnet"/>
@@ -15,5 +83,65 @@
                 <element inactive_on_update="false" label="Other" sequence="9" value="other"/>
             </choice>
         </element>
+        <element attributes="encode_utf8=false" label="Officer" max_length="32" name="u_officer" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested By" max_length="120" name="u_requested_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Restrict To" max_length="40" name="u_restrict_to" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CRU-AllSub" sequence="0" value="cru-allsub"/>
+                <element inactive_on_update="false" label="CRU-GST" sequence="1" value="cru-gst"/>
+                <element inactive_on_update="false" label="CRU-MAZ" sequence="2" value="cru-maz"/>
+                <element inactive_on_update="false" label="CRU" sequence="3" value="cru"/>
+                <element inactive_on_update="false" label="Joint Inquiry" sequence="4" value="joint inquiry"/>
+                <element inactive_on_update="false" label="Limited Notification" sequence="5" value="limited notification"/>
+                <element inactive_on_update="false" label="OLA-ALL" sequence="6" value="ola-all"/>
+                <element inactive_on_update="false" label="Security Report" sequence="7" value="security report"/>
+                <element inactive_on_update="false" label="Security" sequence="8" value="security"/>
+                <element inactive_on_update="false" label="SK" sequence="9" value="sk"/>
+                <element inactive_on_update="false" label="SYL" sequence="10" value="syl"/>
+                <element inactive_on_update="false" label="Travel" sequence="11" value="travel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Room" max_length="100" name="u_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="u_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Start Time" max_length="40" name="u_start_time" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:00" sequence="0" value="07:00"/>
+                <element inactive_on_update="false" label="07:30" sequence="1" value="07:30"/>
+                <element inactive_on_update="false" label="08:00" sequence="2" value="08:00"/>
+                <element inactive_on_update="false" label="08:30" sequence="3" value="08:30"/>
+                <element inactive_on_update="false" label="09:00" sequence="4" value="09:00"/>
+                <element inactive_on_update="false" label="09:30" sequence="5" value="09:30"/>
+                <element inactive_on_update="false" label="10:00" sequence="6" value="10:00"/>
+                <element inactive_on_update="false" label="10:30" sequence="7" value="10:30"/>
+                <element inactive_on_update="false" label="11:00" sequence="8" value="11:00"/>
+                <element inactive_on_update="false" label="11:30" sequence="9" value="11:30"/>
+                <element inactive_on_update="false" label="12:00" sequence="10" value="12:00"/>
+                <element inactive_on_update="false" label="12:30" sequence="11" value="12:30"/>
+                <element inactive_on_update="false" label="1:00" sequence="12" value="1:00"/>
+                <element inactive_on_update="false" label="1:30" sequence="13" value="1:30"/>
+                <element inactive_on_update="false" label="2:00" sequence="14" value="2:00"/>
+                <element inactive_on_update="false" label="2:30" sequence="15" value="2:30"/>
+                <element inactive_on_update="false" label="3:00" sequence="16" value="3:00"/>
+                <element inactive_on_update="false" label="3:30" sequence="17" value="3:30"/>
+                <element inactive_on_update="false" label="4:00" sequence="18" value="4:00"/>
+                <element inactive_on_update="false" label="4:30" sequence="19" value="4:30"/>
+                <element inactive_on_update="false" label="5:00" sequence="20" value="5:00"/>
+                <element inactive_on_update="false" label="5:30" sequence="21" value="5:30"/>
+                <element inactive_on_update="false" label="6:00" sequence="22" value="6:00"/>
+                <element inactive_on_update="false" label="6:30" sequence="23" value="6:30"/>
+                <element inactive_on_update="false" label="7:00" sequence="24" value="7:00"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+                <element inactive_on_update="false" label="Postponed" sequence="3" value="postponed"/>
+                <element inactive_on_update="false" label="Pending MFR" sequence="4" value="pending mfr"/>
+                <element inactive_on_update="false" label="Scheduled" sequence="5" value="scheduled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Subject" max_length="200" name="u_subject" type="string"/>
     </element>
 </database>

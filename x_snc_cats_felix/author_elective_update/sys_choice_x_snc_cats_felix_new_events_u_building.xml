@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_building" table="x_snc_cats_felix_new_events" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ADAMS</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>0</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cc3f403db341c50a7e4db184b96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:35</sys_updated_on>
+            <value>adams</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CANNON</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>1</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90c3f403db341c50a7e4db184b96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:35</sys_updated_on>
+            <value>cannon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CAPITOL - House</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>2</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54c3f403db341c50a7e4db184b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:35</sys_updated_on>
+            <value>capitol - house</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CAPITOL - Senate</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>3</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18c3f403db341c50a7e4db184b961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>capitol - senate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIA</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>4</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8c3f403db341c50a7e4db184b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>cia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DIAC</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>5</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cc3f403db341c50a7e4db184b961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>diac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DIRKSEN</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>6</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50c3f403db341c50a7e4db184b961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>dirksen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOJ</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>7</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14c3f403db341c50a7e4db184b96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>doj</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EOB</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>8</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4c3f403db341c50a7e4db184b96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>eob</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FBI</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>9</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8c3f403db341c50a7e4db184b96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>fbi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FORD</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>10</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cc3f403db341c50a7e4db184b961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>ford</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HART</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>11</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20c3f403db341c50a7e4db184b961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>hart</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Help</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>12</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0c3f403db341c50a7e4db184b961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>help</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICC-Bethesda</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>13</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4c3f403db341c50a7e4db184b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>icc-bethesda</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LONGWORTH</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>14</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68c3f403db341c50a7e4db184b961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>longworth</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LX1</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>15</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cc3f403db341c50a7e4db184b96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>lx1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LX2</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>16</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecc3f403db341c50a7e4db184b96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>lx2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MS2-IARPA</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>17</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0c3f403db341c50a7e4db184b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>ms2-iarpa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MS2-NCSC</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>18</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64c3f403db341c50a7e4db184b9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>ms2-ncsc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NCSC-Bethesda</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>19</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28c3f403db341c50a7e4db184b9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>ncsc-bethesda</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NRO</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>20</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8c3f403db341c50a7e4db184b9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>nro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NSA</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>21</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acc3f403db341c50a7e4db184b9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>nsa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OHB</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>22</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28c3f403db341c50a7e4db184b9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>ohb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OTHER-SEE NOTES</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>23</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8c3f403db341c50a7e4db184b9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>other-see notes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PENTAGON</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>24</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acc3f403db341c50a7e4db184b9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>pentagon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RAYBURN</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>25</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60c3f403db341c50a7e4db184b9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>rayburn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RUSSELL</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>26</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24c3f403db341c50a7e4db184b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>russell</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WHITE HOUSE</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>27</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4c3f403db341c50a7e4db184b9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>white house</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBD</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>28</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8c3f403db341c50a7e4db184b9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:36</sys_updated_on>
+            <value>tbd</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_building</element>
+            <name>x_snc_cats_felix_new_events</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:24:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>54c3f403db341c50a7e4db184b96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_building</sys_name>
+            <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cats_felix_new_events_u_building</sys_update_name>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:24:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

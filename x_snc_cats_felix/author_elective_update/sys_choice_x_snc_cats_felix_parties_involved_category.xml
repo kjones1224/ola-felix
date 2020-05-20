@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_snc_cats_felix_parties_involved" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agencies</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sequence>0</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db417c4fdbf01c50a7e4db184b961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+            <value>agencies</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chamber</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sequence>1</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f417c4fdbf01c50a7e4db184b961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+            <value>chamber</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Intelligence Committees</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sequence>2</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b417c4fdbf01c50a7e4db184b96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+            <value>intelligence committees</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Committees</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sequence>3</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b417c4fdbf01c50a7e4db184b96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+            <value>committees</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SubCommittees</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sequence>4</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97417c4fdbf01c50a7e4db184b96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+            <value>subcommittees</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Directorates</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sequence>5</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f417c4fdbf01c50a7e4db184b9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+            <value>directorates</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_snc_cats_felix_parties_involved</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:13:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>17417c4fdbf01c50a7e4db184b961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cats_felix_parties_involved_category</sys_update_name>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:13:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
