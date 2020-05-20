@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="New Events" max_length="40" name="x_snc_cats_felix_new_events" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Brief Description" max_length="200" name="u_brief_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Event Name" max_length="40" name="u_event_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CapNet" sequence="0" value="capnet"/>
+                <element inactive_on_update="false" label="Courtesy Call" sequence="1" value="courtesy call"/>
+                <element inactive_on_update="false" label="Hearing-Closed" sequence="2" value="hearing-closed"/>
+                <element inactive_on_update="false" label="Hearing-Open" sequence="3" value="hearing-open"/>
+                <element inactive_on_update="false" label="Member Hearing" sequence="4" value="member hearing"/>
+                <element inactive_on_update="false" label="Staff Briefting" sequence="5" value="staff briefting"/>
+                <element inactive_on_update="false" label="Tag" sequence="6" value="tag"/>
+                <element inactive_on_update="false" label="Telephone Call" sequence="7" value="telephone call"/>
+                <element inactive_on_update="false" label="Visit" sequence="8" value="visit"/>
+                <element inactive_on_update="false" label="Other" sequence="9" value="other"/>
+            </choice>
+        </element>
+    </element>
+</database>

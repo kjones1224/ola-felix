@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_event_name" table="x_snc_cats_felix_new_events" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CapNet</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>0</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5993208fdbb01c50a7e4db184b961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>capnet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Courtesy Call</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>1</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d193208fdbb01c50a7e4db184b961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>courtesy call</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hearing-Closed</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>2</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9593208fdbb01c50a7e4db184b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>hearing-closed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hearing-Open</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>3</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6993208fdbb01c50a7e4db184b96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>hearing-open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Member Hearing</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>4</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d93208fdbb01c50a7e4db184b96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>member hearing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff Briefting</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>5</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed93208fdbb01c50a7e4db184b96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>staff briefting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tag</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>6</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a193208fdbb01c50a7e4db184b9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>tag</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telephone Call</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>7</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6593208fdbb01c50a7e4db184b9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>telephone call</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Visit</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>8</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2993208fdbb01c50a7e4db184b9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>visit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>9</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e993208fdbb01c50a7e4db184b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_event_name</element>
+            <name>x_snc_cats_felix_new_events</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 00:13:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9193208fdbb01c50a7e4db184b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_event_name</sys_name>
+            <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cats_felix_new_events_u_event_name</sys_update_name>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 00:13:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
