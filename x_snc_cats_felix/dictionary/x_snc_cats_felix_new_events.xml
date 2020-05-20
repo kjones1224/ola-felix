@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="New Events" max_length="40" name="x_snc_cats_felix_new_events" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Select one or more Agencies" max_length="1024" name="u_agencies" reference="x_snc_cats_felix_parties_involved" reference_qual="category=agencies^EQ" reference_qual_condition="category=agencies^EQ" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="Brief Description" max_length="200" name="u_brief_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Building" max_length="40" name="u_building" type="string">
             <choice>
@@ -34,6 +35,7 @@
                 <element inactive_on_update="false" label="TBD" sequence="28" value="tbd"/>
             </choice>
         </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Select one or more Chambers" max_length="1024" name="u_chambers" reference="x_snc_cats_felix_parties_involved" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Closed" max_length="40" name="u_closed" type="string">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>

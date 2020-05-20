@@ -3,32 +3,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>add_value</element>
-            <list_id display_value="x_snc_cats_felix_parties_involved" element="NULL" name="x_snc_cats_felix_parties_involved" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d620380fdbf01c50a7e4db184b96195b</list_id>
+            <list_id display_value="x_snc_cats_felix_parties_involved" element="NULL" name="x_snc_cats_felix_parties_involved" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">343b304bdb341c50a7e4db184b9619f7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>kjones</sys_created_by>
-            <sys_created_on>2020-05-20 01:08:53</sys_created_on>
-            <sys_id>5620380fdbf01c50a7e4db184b9619e5</sys_id>
+            <sys_created_on>2020-05-20 01:57:06</sys_created_on>
+            <sys_id>3c3b304bdb341c50a7e4db184b9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>kjones</sys_updated_by>
-            <sys_updated_on>2020-05-20 01:08:53</sys_updated_on>
+            <sys_updated_on>2020-05-20 01:57:06</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>category</element>
-            <list_id display_value="x_snc_cats_felix_parties_involved" element="NULL" name="x_snc_cats_felix_parties_involved" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d620380fdbf01c50a7e4db184b96195b</list_id>
+            <list_id display_value="x_snc_cats_felix_parties_involved" element="NULL" name="x_snc_cats_felix_parties_involved" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">343b304bdb341c50a7e4db184b9619f7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>kjones</sys_created_by>
-            <sys_created_on>2020-05-20 01:08:53</sys_created_on>
-            <sys_id>da20380fdbf01c50a7e4db184b9619e5</sys_id>
+            <sys_created_on>2020-05-20 01:57:06</sys_created_on>
+            <sys_id>bc3b304bdb341c50a7e4db184b9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>kjones</sys_updated_by>
-            <sys_updated_on>2020-05-20 01:08:53</sys_updated_on>
+            <sys_updated_on>2020-05-20 01:57:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_snc_cats_felix_parties_involved" element="NULL" name="x_snc_cats_felix_parties_involved" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">343b304bdb341c50a7e4db184b9619f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-20 01:57:06</sys_created_on>
+            <sys_id>303b304bdb341c50a7e4db184b9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-20 01:57:06</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -42,11 +57,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>kjones</sys_created_by>
-            <sys_created_on>2020-05-20 01:08:53</sys_created_on>
+            <sys_created_on>2020-05-20 01:57:06</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d620380fdbf01c50a7e4db184b96195b</sys_id>
+            <sys_id>343b304bdb341c50a7e4db184b9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_cats_felix_parties_involved</sys_name>
             <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
@@ -55,7 +70,7 @@
             <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_cats_felix_parties_involved_null</sys_update_name>
             <sys_updated_by>kjones</sys_updated_by>
-            <sys_updated_on>2020-05-20 01:08:53</sys_updated_on>
+            <sys_updated_on>2020-05-20 01:57:06</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
