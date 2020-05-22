@@ -17,30 +17,44 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>kjones</sys_created_by>
-            <sys_created_on>2020-05-20 01:52:03</sys_created_on>
+            <sys_created_on>2020-05-22 18:37:47</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7e0ab8c7db341c50a7e4db184b9619ca</sys_id>
+            <sys_id>da63323bdbf49850602384cc2996193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_cats_felix_new_events" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">2e0ab8c7db341c50a7e4db184b9619c5</sys_ui_form>
-            <sys_ui_section caption="Agencies" display_value="Agencies" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">e20ab8c7db341c50a7e4db184b9619c4</sys_ui_section>
+            <sys_ui_section caption="Parties Involved" display_value="Parties Involved" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">9263323bdbf49850602384cc29961937</sys_ui_section>
             <sys_updated_by>kjones</sys_updated_by>
-            <sys_updated_on>2020-05-20 01:52:03</sys_updated_on>
+            <sys_updated_on>2020-05-22 18:37:47</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>kjones</sys_created_by>
-            <sys_created_on>2020-05-20 02:01:44</sys_created_on>
+            <sys_created_on>2020-05-22 18:38:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>644c348bdb341c50a7e4db184b961922</sys_id>
+            <sys_id>76a3f63bdbf49850602384cc29961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_cats_felix_new_events" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">2e0ab8c7db341c50a7e4db184b9619c5</sys_ui_form>
-            <sys_ui_section caption="Chamber" display_value="Chamber" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">a44c348bdb341c50a7e4db184b96191f</sys_ui_section>
+            <sys_ui_section caption="Attendees" display_value="Attendees" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">3aa3f63bdbf49850602384cc29961921</sys_ui_section>
             <sys_updated_by>kjones</sys_updated_by>
-            <sys_updated_on>2020-05-20 02:01:44</sys_updated_on>
+            <sys_updated_on>2020-05-22 18:38:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-05-22 19:32:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3dfb2b7db389850602384cc29961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_cats_felix_new_events" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">2e0ab8c7db341c50a7e4db184b9619c5</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_cats_felix_new_events" sys_domain="global" view="Default view">8fdfb2b7db389850602384cc29961912</sys_ui_section>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-05-22 19:32:10</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_cats_felix_new_events</name>

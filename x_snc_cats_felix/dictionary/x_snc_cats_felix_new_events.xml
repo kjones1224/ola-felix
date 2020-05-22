@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="New Events" max_length="40" name="x_snc_cats_felix_new_events" type="collection">
+    <element extends="task" label="New Events" max_length="40" name="x_snc_cats_felix_new_events" sizeclass="0" type="collection">
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Select one or more Agencies" max_length="1024" name="u_agencies" reference="x_snc_cats_felix_parties_involved" reference_qual="category=agencies^EQ" reference_qual_condition="category=agencies^EQ" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="Brief Description" max_length="200" name="u_brief_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Building" max_length="40" name="u_building" type="string">
@@ -42,6 +42,8 @@
                 <element inactive_on_update="false" label="No" sequence="1" value="no"/>
             </choice>
         </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Select one or more Committees" max_length="1024" name="u_committees" reference="x_snc_cats_felix_new_events" reference_qual="category=committees^EQ" reference_qual_condition="category=committees^EQ" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Select one or more Directorates" max_length="1024" name="u_directorates" reference="x_snc_cats_felix_new_events" reference_qual="category=directorates^EQ" reference_qual_condition="category=directorates^EQ" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="End Time" max_length="40" name="u_end_time" type="string">
             <choice>
                 <element inactive_on_update="false" label="07:00" sequence="0" value="07:00"/>
@@ -56,19 +58,19 @@
                 <element inactive_on_update="false" label="11:30" sequence="9" value="11:30"/>
                 <element inactive_on_update="false" label="12:00" sequence="10" value="12:00"/>
                 <element inactive_on_update="false" label="12:30" sequence="11" value="12:30"/>
-                <element inactive_on_update="false" label="1:00" sequence="12" value="1:00"/>
-                <element inactive_on_update="false" label="1:30" sequence="13" value="1:30"/>
-                <element inactive_on_update="false" label="2:00" sequence="14" value="2:00"/>
-                <element inactive_on_update="false" label="2:30" sequence="15" value="2:30"/>
-                <element inactive_on_update="false" label="3:00" sequence="16" value="3:00"/>
-                <element inactive_on_update="false" label="3:30" sequence="17" value="3:30"/>
-                <element inactive_on_update="false" label="4:00" sequence="18" value="4:00"/>
-                <element inactive_on_update="false" label="4:30" sequence="19" value="4:30"/>
-                <element inactive_on_update="false" label="5:00" sequence="20" value="5:00"/>
-                <element inactive_on_update="false" label="5:30" sequence="21" value="5:30"/>
-                <element inactive_on_update="false" label="6:00" sequence="22" value="6:00"/>
-                <element inactive_on_update="false" label="6:30" sequence="23" value="6:30"/>
-                <element inactive_on_update="false" label="7:00" sequence="24" value="7:00"/>
+                <element inactive_on_update="false" label="1:00" sequence="12" value="13:00"/>
+                <element inactive_on_update="false" label="1:30" sequence="13" value="13:30"/>
+                <element inactive_on_update="false" label="2:00" sequence="14" value="14:00"/>
+                <element inactive_on_update="false" label="2:30" sequence="15" value="14:30"/>
+                <element inactive_on_update="false" label="3:00" sequence="16" value="15:00"/>
+                <element inactive_on_update="false" label="3:30" sequence="17" value="15:30"/>
+                <element inactive_on_update="false" label="4:00" sequence="18" value="16:00"/>
+                <element inactive_on_update="false" label="4:30" sequence="19" value="16:30"/>
+                <element inactive_on_update="false" label="5:00" sequence="20" value="17:00"/>
+                <element inactive_on_update="false" label="5:30" sequence="21" value="17:30"/>
+                <element inactive_on_update="false" label="6:00" sequence="22" value="18:00"/>
+                <element inactive_on_update="false" label="6:30" sequence="23" value="18:30"/>
+                <element inactive_on_update="false" label="7:00" sequence="24" value="19:00"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Event Name" max_length="40" name="u_event_name" type="string">
@@ -85,6 +87,7 @@
                 <element inactive_on_update="false" label="Other" sequence="9" value="other"/>
             </choice>
         </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Intelligence Committees" max_length="1024" name="u_ic" reference="x_snc_cats_felix_new_events" reference_qual="category=intelligence committees^EQ" reference_qual_condition="category=intelligence committees^EQ" type="glide_list"/>
         <element attributes="encode_utf8=false" label="Officer" max_length="32" name="u_officer" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Requested By" max_length="120" name="u_requested_by" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Restrict To" max_length="40" name="u_restrict_to" type="string">
@@ -119,19 +122,19 @@
                 <element inactive_on_update="false" label="11:30" sequence="9" value="11:30"/>
                 <element inactive_on_update="false" label="12:00" sequence="10" value="12:00"/>
                 <element inactive_on_update="false" label="12:30" sequence="11" value="12:30"/>
-                <element inactive_on_update="false" label="1:00" sequence="12" value="1:00"/>
-                <element inactive_on_update="false" label="1:30" sequence="13" value="1:30"/>
-                <element inactive_on_update="false" label="2:00" sequence="14" value="2:00"/>
-                <element inactive_on_update="false" label="2:30" sequence="15" value="2:30"/>
-                <element inactive_on_update="false" label="3:00" sequence="16" value="3:00"/>
-                <element inactive_on_update="false" label="3:30" sequence="17" value="3:30"/>
-                <element inactive_on_update="false" label="4:00" sequence="18" value="4:00"/>
-                <element inactive_on_update="false" label="4:30" sequence="19" value="4:30"/>
-                <element inactive_on_update="false" label="5:00" sequence="20" value="5:00"/>
-                <element inactive_on_update="false" label="5:30" sequence="21" value="5:30"/>
-                <element inactive_on_update="false" label="6:00" sequence="22" value="6:00"/>
-                <element inactive_on_update="false" label="6:30" sequence="23" value="6:30"/>
-                <element inactive_on_update="false" label="7:00" sequence="24" value="7:00"/>
+                <element inactive_on_update="false" label="1:00" sequence="12" value="13:00"/>
+                <element inactive_on_update="false" label="1:30" sequence="13" value="13:30"/>
+                <element inactive_on_update="false" label="2:00" sequence="14" value="14:00"/>
+                <element inactive_on_update="false" label="2:30" sequence="15" value="14:30"/>
+                <element inactive_on_update="false" label="3:00" sequence="16" value="15:00"/>
+                <element inactive_on_update="false" label="3:30" sequence="17" value="15:30"/>
+                <element inactive_on_update="false" label="4:00" sequence="18" value="16:00"/>
+                <element inactive_on_update="false" label="4:30" sequence="19" value="16:30"/>
+                <element inactive_on_update="false" label="5:00" sequence="20" value="17:00"/>
+                <element inactive_on_update="false" label="5:30" sequence="21" value="17:30"/>
+                <element inactive_on_update="false" label="6:00" sequence="22" value="18:00"/>
+                <element inactive_on_update="false" label="6:30" sequence="23" value="18:30"/>
+                <element inactive_on_update="false" label="7:00" sequence="24" value="19:00"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
@@ -145,5 +148,6 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Subject" max_length="200" name="u_subject" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Select one or more Sub-Committees" max_length="1024" name="u_sub_committees" reference="x_snc_cats_felix_new_events" type="glide_list"/>
     </element>
 </database>
