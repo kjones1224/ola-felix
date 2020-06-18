@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_etime" table="x_snc_cats_felix_new_events" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>07:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>0</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b27a3220dba5d014a7e4db184b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>07:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>07:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>1</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a7a3220dba5d014a7e4db184b9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>07:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>08:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>2</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa7a3220dba5d014a7e4db184b9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>08:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>08:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>3</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be7a3220dba5d014a7e4db184b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>08:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>09:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>4</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>727a3220dba5d014a7e4db184b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>09:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>09:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>5</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>367a3220dba5d014a7e4db184b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>09:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>6</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f67a3220dba5d014a7e4db184b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>10:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>7</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba7a3220dba5d014a7e4db184b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>10:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>11:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>8</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e7a3220dba5d014a7e4db184b9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+            <value>11:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>11:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>9</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4fa3a20dba5d014a7e4db184b9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>11:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>10</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68fa3a20dba5d014a7e4db184b9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>12:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>11</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cfa3a20dba5d014a7e4db184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>12:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>13:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>12</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecfa3a20dba5d014a7e4db184b9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>13:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>13:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>13</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0fa3a20dba5d014a7e4db184b9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>13:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>14:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>14</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64fa3a20dba5d014a7e4db184b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>14:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>14:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>15</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28fa3a20dba5d014a7e4db184b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>14:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>15:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>16</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8fa3a20dba5d014a7e4db184b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>15:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>15:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>17</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acfa3a20dba5d014a7e4db184b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>15:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>16:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>18</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60fa3a20dba5d014a7e4db184b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>16:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>16:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>19</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24fa3a20dba5d014a7e4db184b9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>16:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>17:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>20</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4fa3a20dba5d014a7e4db184b9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>17:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>17:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>21</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8fa3a20dba5d014a7e4db184b9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>17:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>18:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>22</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cfa3a20dba5d014a7e4db184b9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>18:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>18:30</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>23</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20fa3a20dba5d014a7e4db184b9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>18:30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>19:00</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>24</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0fa3a20dba5d014a7e4db184b9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:37:31</sys_updated_on>
+            <value>19:00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBD</label>
+            <language>en</language>
+            <name>x_snc_cats_felix_new_events</name>
+            <sequence>25</sequence>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d3b7e20dba5d014a7e4db184b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:38:40</sys_updated_on>
+            <value>tbd</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_etime</element>
+            <name>x_snc_cats_felix_new_events</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kjones</sys_created_by>
+            <sys_created_on>2020-06-18 23:35:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fa7a3220dba5d014a7e4db184b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_etime</sys_name>
+            <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cats_felix_new_events_u_etime</sys_update_name>
+            <sys_updated_by>kjones</sys_updated_by>
+            <sys_updated_on>2020-06-18 23:35:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
