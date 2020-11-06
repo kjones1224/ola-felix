@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>u_event_name,u_subject</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6b1b7705db1860101598853339961950</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:28:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>266b7745db186010159885333996195e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Events</sys_name>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_update_name>sp_instance_table_266b7745db186010159885333996195e</sys_update_name>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:37:21</sys_updated_on>
+        <table>x_snc_cats_felix_new_events</table>
+        <title>New Events</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=266b7745db186010159885333996195e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</application>
+        <file_path/>
+        <instance_id>d395fc9ddb8762401ddcf22ebf961933</instance_id>
+        <instance_name>aashwsc7</instance_name>
+        <name>sp_instance_table_266b7745db186010159885333996195e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list>u_event_name,u_subject</field_list><filter/><glyph/><id/><maximum_entries>5</maximum_entries><order>2</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">6b1b7705db1860101598853339961950</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>kjones</sys_created_by><sys_created_on>2020-11-04 10:28:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>266b7745db186010159885333996195e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>New Events</sys_name><sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope><sys_update_name>sp_instance_table_266b7745db186010159885333996195e</sys_update_name><sys_updated_by>kjones</sys_updated_by><sys_updated_on>2020-11-04 10:37:21</sys_updated_on><table>x_snc_cats_felix_new_events</table><title>New Events</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=266b7745db186010159885333996195e"/></record_update>]]></payload>
+        <payload_hash>588143475</payload_hash>
+        <record_name>New Events</record_name>
+        <reverted_from/>
+        <source>b774648fdbb01c50a7e4db184b9619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:37:22</sys_created_on>
+        <sys_id>5b5d7f09db186010159885333996193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17592d51f010000001</sys_recorded_at>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:37:22</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>9f5d7f09a4186010ffa6b547e9b9813e</update_guid>
+        <update_guid_history>9f5d7f09a4186010ffa6b547e9b9813e:588143475,0eebbf456218601013539b604f552c1a:-2062728748,6a6b77454c1860108eee86044fbeb05f:-1463616175</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 11/04/2020 05:37:30">656dbf09db1860101598853339961918</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:37:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>8a6b538b50224482a6affa10b56c7629</sys_id>
+        <sys_metadata>266b7745db186010159885333996195e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Events</sys_name>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_scope_delete display_value="">4d189b4dc76048f4b496445db7ac5841</sys_scope_delete>
+        <sys_update_name>sp_instance_table_266b7745db186010159885333996195e</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_266b7745db186010159885333996195e">5b5d7f09db186010159885333996193f</sys_update_version>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:37:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

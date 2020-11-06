@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>th-list</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>4</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>MagnumHouse main page</short_description>
+        <size>md</size>
+        <sp_column display_value="3">e71b7705db186010159885333996197b</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link K17">f226a6564f2a72407e2cfa218110c793</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:27:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ab1b7705db1860101598853339961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MHI</sys_name>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_update_name>sp_instance_link_ab1b7705db1860101598853339961985</sys_update_name>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:27:33</sys_updated_on>
+        <title>MHI</title>
+        <type>url</type>
+        <u_image/>
+        <url>https://www.magnumhouse.com</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab1b7705db1860101598853339961985"/>
+</record_update>

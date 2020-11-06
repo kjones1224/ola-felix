@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>title,u_description,url</field_list>
+        <filter/>
+        <glyph>th-list</glyph>
+        <id/>
+        <maximum_entries>10</maximum_entries>
+        <order>3</order>
+        <order_by>sys_created_on</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6b1b7705db1860101598853339961950</sp_column>
+        <sp_page/>
+        <sp_widget display_value="COO Link Widget">f1f9df78db7cd050a7e4db184b96196c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:27:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a71b7705db1860101598853339961955</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>COO Links</sys_name>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_update_name>sp_instance_table_a71b7705db1860101598853339961955</sys_update_name>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:37:31</sys_updated_on>
+        <table>x_snc_chief_operat_coo_links</table>
+        <title>COO Links</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=a71b7705db1860101598853339961955"/>
+</record_update>

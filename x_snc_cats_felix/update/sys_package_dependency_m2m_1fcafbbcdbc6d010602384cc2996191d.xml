@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">22d9f45113032200d93e54b12244b0bc</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>JONKENL</sys_created_by>
+        <sys_created_on>2020-05-26 11:58:50</sys_created_on>
+        <sys_id>1fcafbbcdbc6d010602384cc2996191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_updated_by>JONKENL</sys_updated_by>
+        <sys_updated_on>2020-05-26 11:58:50</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

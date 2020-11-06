@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6b1b7705db1860101598853339961950</sp_column>
+        <sp_widget display_value="Cool Clock">3a36b30b6f3631005be8583e6b3ee490</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:28:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>355bf345db1860101598853339961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_update_name>sp_instance_355bf345db1860101598853339961941</sys_update_name>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:28:31</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=355bf345db1860101598853339961941"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</application>
+        <file_path/>
+        <instance_id>d395fc9ddb8762401ddcf22ebf961933</instance_id>
+        <instance_name>aashwsc7</instance_name>
+        <name>sp_instance_355bf345db1860101598853339961941</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">6b1b7705db1860101598853339961950</sp_column><sp_widget display_value="Cool Clock">3a36b30b6f3631005be8583e6b3ee490</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>kjones</sys_created_by><sys_created_on>2020-11-04 10:28:31</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>355bf345db1860101598853339961941</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope><sys_update_name>sp_instance_355bf345db1860101598853339961941</sys_update_name><sys_updated_by>kjones</sys_updated_by><sys_updated_on>2020-11-04 10:28:31</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=355bf345db1860101598853339961941"/></record_update>]]></payload>
+        <payload_hash>1973173193</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b774648fdbb01c50a7e4db184b9619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:28:31</sys_created_on>
+        <sys_id>b15bf345db1860101598853339961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17592cd067d0000001</sys_recorded_at>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:28:31</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b95bf3459a1860107f7962b5ac9f6f42</update_guid>
+        <update_guid_history>b95bf3459a1860107f7962b5ac9f6f42:1973173193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 11/04/2020 05:28:37">235b7345db186010159885333996197e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kjones</sys_created_by>
+        <sys_created_on>2020-11-04 10:28:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>320fb94b79c84e24b9b37f38d7641290</sys_id>
+        <sys_metadata>355bf345db1860101598853339961941</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OLA CATS-FELIX" source="x_snc_cats_felix">020f980bdbb01c50a7e4db184b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OLA CATS-FELIX">020f980bdbb01c50a7e4db184b9619d4</sys_scope>
+        <sys_scope_delete display_value="">4d189b4dc76048f4b496445db7ac5841</sys_scope_delete>
+        <sys_update_name>sp_instance_355bf345db1860101598853339961941</sys_update_name>
+        <sys_update_version display_value="sp_instance_355bf345db1860101598853339961941">b15bf345db1860101598853339961943</sys_update_version>
+        <sys_updated_by>kjones</sys_updated_by>
+        <sys_updated_on>2020-11-04 10:28:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
